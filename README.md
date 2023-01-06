@@ -1,5 +1,5 @@
 # Crowd-Funding console app By Python 
-Crowd-Funding console app any user can create a project fund raise campaign which contains:
+Crowd-Funding console app The user can create a project fund raise campaign which contains:
 • Title
 • Details
 • Total target (i.e 250000 EGP)
